@@ -1,4 +1,4 @@
-# React-Random-Quote-Machine
+# Random-Quote-Machine
 Random Quote Machine created in React.js.
 
 ## Project Setup
